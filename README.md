@@ -1,9 +1,7 @@
 # letshyphen-app
 letshyphen is an online skincare shopping android app developed using Java and Android Studio. The app is based on an existing website of the same name, aiming to replicate and enhance its features.
-<br>
-The app features a range of functionalities, including:
 <br><br>
-<b>Technologies Used:</b> 
+<b>The app features a range of functionalities, including:</b> 
 <ol>
   <li><b>Login and Registration:</b> Users can create accounts and log in to access the app's features.</li>
   <li><b>Onboarding Layout:</b> A user-friendly onboarding layout guides users through the app's features upon first use.</li>
