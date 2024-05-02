@@ -12,3 +12,6 @@ letshyphen is an online skincare shopping android app developed using Java, Andr
   <li><b>Cart:</b> Users can add products to their cart for easy checkout.</li>
   <li><b>Logout:</b> Users can securely log out of their accounts when they're done shopping.</li>
 </ol>
+<br>
+<b>Here's the sample video of the app:</b>
+https://github.com/khushigc25/letshyphen-app/assets/155994013/ac68496a-15ef-4602-9bdf-5677a86ba857
